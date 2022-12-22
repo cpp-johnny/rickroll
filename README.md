@@ -1,6 +1,7 @@
-# rickroll
+# A rickroll website
 
-## rickroll using svg hover effect + redirects to rickroll after 10s
+### - uses svg hover effect 
+### - redirects to rickroll after 10s
 
 
 project inspiration: https://codepen.io/web-tiki/pen/LGYBrQ
